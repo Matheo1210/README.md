@@ -1,14 +1,14 @@
 ## Hi there 👋
 
-😎  - I'm Matheo, a super-passionate Developer from north of France.
+😎   I'm Matheo, a super-passionate Developer from north of France.
 
-🌱 - I am passionate about creating technology.
+🌱   I am passionate about creating technology.
 
 
 
-✨ - 🧢 Passionate about computers and cars.
+✨  🧢 Passionate about computers and cars.
 
-🔭 - I am in a computer science engineering school.
+🔭  I am in a computer science engineering school.
 
 
 ### ⚡ Stats
