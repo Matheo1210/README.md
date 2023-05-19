@@ -14,5 +14,3 @@
 ### ⚡ Stats
 
 ![](https://komarev.com/ghpvc/?username=matheo1210)
-
-![Github stats](https://github-readme-stats.vercel.app/api?username=matheo1210&show_icons=true&include_all_commits=true&count_private=true)
